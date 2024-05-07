@@ -1,4 +1,4 @@
-# Real Estate End to End Data Engineering using AI
+# Real Estate E2E Data Engineering
 
 ## Project Overview
 This project demonstrates an end-to-end real estate data engineering pipeline using various technologies including AI, web scraping, streaming, and big data storage. The pipeline collects real estate listings from Zoopla, processes the data using a large language model, streams the data into Kafka, and stores it in Cassandra via Spark.
